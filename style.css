@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+label{
+    display: block;
+}
+img{
+    float: left;
+}
+label, input{
+    padding-top: 40px;
+}
+button{
+    margin-left: 15px;
+border: none;
+}
+.bir{
+    background-color: rgb(221, 221, 221);
+    width: 70px;
+    height: 30px;
+border-radius: 20px;
+}
+.iki{
+    width: 70px;
+    height: 30px;
+    background-color: plum;
+    border-radius: 30px;
+    margin-top: 30px;
+}
+#llll{
+    display: block;
+}
